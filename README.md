@@ -1,8 +1,8 @@
-## Tic-Tac-Toe Game 
+# Tic-Tac-Toe Game 
 
 This is a console-based Tic-Tac-Toe game implemented in C++. Players can enjoy the classic game of Tic-Tac-Toe against a computer opponent. 
 
-## Features
+# Features
 
 - **Single Player Mode**: Play against the computer.
 - **Interactive Gameplay**: Simple and intuitive console interface for making moves.
